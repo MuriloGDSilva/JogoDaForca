@@ -68,4 +68,4 @@ if ''.join(estado_atual) == palavra_sorteada:
     print('\033[1;32mVOCE GANHOU !! PARABENS\033[m')
 elif chances == tentativas:
     print('Voce perdeu!!'.upper())
-    print(f'a palvra era: {palavra_sorteada}')
+    print(f'a palavra era: {palavra_sorteada}')
